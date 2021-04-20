@@ -16,3 +16,8 @@ You can find my contact information at <https://v0lttech.com/contact.php>, inclu
 ### Can I find the source code for all V0LT software here on Github?
 
 While a good portion of V0LT source code can be found on Github, there are a few programs that aren't hosted here. Since Github is run by Microsoft, and it requires non-free JavaScript to function, my main place for hosting source code is on the V0LT website itself.
+
+
+### Do you program professionally?
+
+I do not. I'm currently studying to go into cyber security, and V0LT is a side project that I'm admittedly extremely invested in. I don't program professionally, and the only time I make anything off of it is when people who enjoy my work [contribute financially](https://v0lttech.com/donate.php) to my website.
