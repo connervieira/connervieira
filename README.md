@@ -15,7 +15,7 @@ You can find my contact information at <https://v0lttech.com/contact.php>, inclu
 
 ### What kinds of software do you write?
 
-Honestly, a little bit of everything. Usually my inspiration for a particular project comes from a need that I have that can't be resolved with existing software.
+Honestly, a little bit of everything. Usually my inspiration for a particular project comes from a need that I have that can't be resolved with existing software. Generally speaking, I write web-based services in PHP, and local programs in Python
 
 
 ### Can I find the source code for all V0LT software here on Github?
@@ -26,3 +26,5 @@ While a good portion of V0LT source code can be found on Github, there are a few
 ### Do you program professionally?
 
 I do not. I'm currently studying to go into the cyber security and computer science fields, and V0LT is a side project that I'm extremely invested in. I don't program professionally, and the only time I make anything off of it is when people who enjoy my work [contribute financially](https://v0lttech.com/donate.php) to my website. While these donations are greatly appreciated, they don't even cover a fraction of the losses I incur running V0LT. When it comes to V0LT, I do what I do for the ethical reasons, not the financial gain.
+
+In the future, I hope to turn V0LT into a profitable business, but at the moment I'm pretty far off from that goal.
