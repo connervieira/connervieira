@@ -5,7 +5,7 @@ Welcome to my personal GitHub account! This is the account I use to host the cod
 
 ### What is V0LT
 
-V0LT is the online platform that I run for creating, distributing, and promoting freedom respecting, open source, ethical digital content. I personally create DRM free and freely licensed software, pictures, audio, 3D models, tutorials, and more. If you'd like to check out more of what V0LT has to offer, check it out at <https://v0lttech.com>
+V0LT is the platform that I run for creating, distributing, and promoting freedom respecting, open source, ethical digital content. I personally create DRM free and freely licensed software, pictures, audio, 3D models, tutorials, and more. If you'd like to check out more of what V0LT has to offer, check it out at <https://v0lttech.com>
 
 
 ### Where can I contact you?
@@ -15,16 +15,9 @@ You can find my contact information at <https://v0lttech.com/contact.php>, inclu
 
 ### What kinds of software do you write?
 
-Honestly, a little bit of everything. Usually my inspiration for a particular project comes from a need that I have that can't be resolved with existing libre/open source software. Generally speaking, I write web-based services in PHP, and local programs in Python.
+I do a little bit of everything when it comes to development. Usually my inspiration for a particular project comes from a need that I have that can't be resolved with existing libre/open source software. Generally speaking, I write web-based services in PHP, and local programs in Python. I also have experience with C++ and Godot as well.
 
 
 ### Can I find the source code for all V0LT software here on GitHub?
 
-While a good portion of V0LT source code can be found on Github, there are a few programs that aren't hosted here. Since GitHub is run by Microsoft, and it requires non-free JavaScript to function, my main place for hosting source code is on the V0LT website itself. Think of GitHub like a mirror of the code up the V0LT website. The code on GitHub might be more up to date, but the source code for all of the official releases are accessible only using the V0LT website.
-
-
-### Do you program professionally?
-
-I do not. I'm currently studying to go into the cyber security and computer science fields, and V0LT is a side project that I'm extremely invested in. I don't program professionally, and the only time I make anything off of it is when people who enjoy my work [contribute financially](https://v0lttech.com/donate.php) to support it. While these donations are greatly appreciated, they don't even cover a fraction of the losses I incur running V0LT. When it comes to V0LT, I do what I do for the ethical reasons, not the financial gain.
-
-In the future, I hope to turn V0LT into a profitable business, but at the moment I'm pretty far off from that goal.
+While a good portion of V0LT source code can be found on Github, there are a few programs that aren't hosted here. Since GitHub is run by Microsoft, and it requires non-free JavaScript to function, my main place for hosting source code is on the V0LT website itself. Think of GitHub like a mirror of the code up the V0LT website.
